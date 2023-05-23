@@ -8,3 +8,4 @@ else:
         student = students[i]
         file = files[i]
         print(f"{student} will create {file}.py")
+        print("Hello")
